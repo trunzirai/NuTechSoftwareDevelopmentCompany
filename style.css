@@ -20,7 +20,6 @@ body
 .menu-bar ul
 {
 	display: flex;
-	flex-direction: column;
 	list-style: none;
 	color: #fff;
 }
@@ -96,6 +95,7 @@ body
 	margin-top: -40px;
 	margin-left: 230px;
 }
+
 
 
 
