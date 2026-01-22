@@ -18,9 +18,16 @@ body
 }
 .menu-bar ul
 {
-	display: inline-flex;
+	display: flex;
+	flex-direction: column;
+	padding: 16px;
 	list-style: none;
 	color: #fff;
+}
+@media (min-width: 768px) {
+	.container {
+		flex-direction: row;
+	}
 }
 .menu-bar ul li
 {
@@ -94,6 +101,7 @@ body
 	margin-top: -40px;
 	margin-left: 230px;
 }
+
 
 
 
