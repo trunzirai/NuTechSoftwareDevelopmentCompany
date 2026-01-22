@@ -25,11 +25,6 @@ body
 	list-style: none;
 	color: #fff;
 }
-@media (min-width: 768px) {
-	.container {
-		flex-direction: row;
-	}
-}
 .menu-bar ul li
 {
 	width: 250px;
@@ -102,6 +97,7 @@ body
 	margin-top: -40px;
 	margin-left: 230px;
 }
+
 
 
 
