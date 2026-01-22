@@ -21,7 +21,6 @@ body
 {
 	display: flex;
 	flex-direction: column;
-	padding: 16px;
 	list-style: none;
 	color: #fff;
 }
@@ -97,6 +96,7 @@ body
 	margin-top: -40px;
 	margin-left: 230px;
 }
+
 
 
 
